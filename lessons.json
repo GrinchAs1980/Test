@@ -1,0 +1,20 @@
+{
+    "lessons": [
+        {
+            "id": "lesson01",
+            "title": "Українська розкладка",
+            "description": "Базовий урок української клавіатури",
+            "version": 1,
+            "free": true,
+            "downloadUrl": "lessons/lesson01.zip"
+        },
+        {
+            "id": "lesson02",
+            "title": "English Basics",
+            "description": "Базова англійська клавіатура",
+            "version": 1,
+            "free": true,
+            "downloadUrl": "lessons/lesson02.zip"
+        }
+    ]
+}
