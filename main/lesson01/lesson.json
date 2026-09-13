@@ -30,7 +30,7 @@
         },
 
         {
-            "path": "Audio/Results/result_excellent.mp3",
+            "path": "Audio/Results/result_excellent.wav",
             "hash": "",
             "size": 0
         },
@@ -89,7 +89,7 @@
     "resultExcellent": {
         "text": "Відмінно!",
         "image": "Images/Results/excellent.png",
-        "sound": "Audio/Results/result_excellent.mp3",
+        "sound": "Audio/Results/result_excellent.wav",
         "animated": true,
         "animation": "Images/Animations/excellent_sheet.png",
         "animationSpeed": 6,
