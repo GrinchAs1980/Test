@@ -89,7 +89,7 @@
     "resultExcellent": {
         "text": "Відмінно!",
         "image": "Images/Results/excellent.png",
-        "sound": "Audio/Results/result_excellent.wav",
+        "sound": "Audio/Results/result_excellent.mp3",
         "animated": true,
         "animation": "Images/Animations/excellent_sheet.png",
         "animationSpeed": 6,
