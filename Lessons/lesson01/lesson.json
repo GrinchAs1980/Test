@@ -1,3 +1,4 @@
+
 {
     "id": "lesson01",
     "title": "Українська розкладка",
@@ -7,6 +8,8 @@
     "defaultLanguage": "UA",
 
     "text": "ааааа",
+
+    "background": "Images/Backgrounds/lesson_bg.png",
 
     "sound": "Audio/Music/music.mp3",
 
@@ -63,6 +66,30 @@
             "path": "Images/Animations/excellent_sheet.png",
             "hash": "",
             "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/lesson_bg.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/result_bad_bg.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/result_good_bg.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/result_excellent_bg.png",
+            "hash": "",
+            "size": 0
         }
     ],
 
@@ -70,6 +97,9 @@
         "text": "Старайся краще!",
         "image": "Images/Results/bad.png",
         "sound": "Audio/Results/result_bad.wav",
+
+        "background": "Images/Backgrounds/result_bad_bg.png",
+
         "animated": true,
         "animation": "Images/Animations/bad_Anim.png",
         "animationSpeed": 6,
@@ -80,6 +110,9 @@
         "text": "Добре!",
         "image": "Images/Results/good.png",
         "sound": "Audio/Results/result_good.wav",
+
+        "background": "Images/Backgrounds/result_good_bg.png",
+
         "animated": false,
         "animation": "",
         "animationSpeed": 6,
@@ -90,6 +123,9 @@
         "text": "Відмінно!",
         "image": "Images/Results/excellent.png",
         "sound": "Audio/Results/result_excellent.wav",
+
+        "background": "Images/Backgrounds/result_excellent_bg.png",
+
         "animated": true,
         "animation": "Images/Animations/excellent_sheet.png",
         "animationSpeed": 6,
