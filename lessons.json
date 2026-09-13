@@ -3,18 +3,18 @@
     {
       "id": "lesson01",
       "title": "Українська розкладка",
-      "description": "Базовий урок української клавіатури",
+      "description": "Базове тренування української клавіатури",
       "version": 1,
       "free": true,
-      "downloadUrl": "Lessons/lesson01.zip"
+      "downloadUrl": "Lessons/lesson01/lesson.json"
     },
     {
       "id": "lesson02",
-      "title": "English Basics",
-      "description": "Базовий урок англійської клавіатури",
+      "title": "Англійська розкладка",
+      "description": "Базове тренування англійської клавіатури",
       "version": 1,
       "free": true,
-      "downloadUrl": "Lessons/lesson02.zip"
+      "downloadUrl": "Lessons/lesson02/lesson.json"
     }
   ]
 }
