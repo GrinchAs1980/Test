@@ -1,0 +1,151 @@
+
+{
+    "id": "lesson03",
+    "title": "Базова розкладка для дітей 6 - 10 років",
+    "language": "UA",
+
+    "multiLanguage": false,
+    "defaultLanguage": "UA",
+
+    "text": "ааааа ооо",
+
+    "background": "Images/Backgrounds/lesson_bg.png",
+
+    "sound": "Audio/Music/halloween.ogg",
+
+    "resources": [
+        {
+            "path": "Audio/Music/halloween.ogg",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Audio/Results/result_bad.wav",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Audio/Results/result_good.wav",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Audio/Results/result_excellent.wav",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Results/bad.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Results/good.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Results/excellent.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Animations/bad_Anim.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Animations/excellent_sheet.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/lesson_bg.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/result_bad_bg.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/result_good_bg.png",
+            "hash": "",
+            "size": 0
+        },
+
+        {
+            "path": "Images/Backgrounds/result_excellent_bg.png",
+            "hash": "",
+            "size": 0
+        }
+    ],
+
+    "resultBad": {
+        "text": "Старайся краще!",
+        "image": "Images/Results/bad.png",
+        "sound": "Audio/Results/result_bad.wav",
+
+        "background": "Images/Backgrounds/result_bad_bg.png",
+
+        "animated": true,
+        "animation": "Images/Animations/bad_Anim.png",
+        "animationSpeed": 6,
+        "loop": true
+    },
+
+    "resultGood": {
+        "text": "Добре!",
+        "image": "Images/Results/good.png",
+        "sound": "Audio/Results/result_good.wav",
+
+        "background": "Images/Backgrounds/result_good_bg.png",
+
+        "animated": false,
+        "animation": "",
+        "animationSpeed": 6,
+        "loop": true
+    },
+
+    "resultExcellent": {
+        "text": "Відмінно!",
+        "image": "Images/Results/excellent.png",
+        "sound": "Audio/Results/result_excellent.wav",
+
+        "background": "Images/Backgrounds/result_excellent_bg.png",
+
+        "animated": true,
+        "animation": "Images/Animations/excellent_sheet.png",
+        "animationSpeed": 6,
+        "loop": true
+    },
+
+    "resultSettings": {
+
+        "minSpeed": 75,
+        "maxMistakes": 5,
+
+        "goodAccuracy": 75,
+        "excellentAccuracy": 95,
+
+        "star2Accuracy": 50,
+        "star3Accuracy": 70,
+        "star4Accuracy": 95,
+        "star5Accuracy": 100,
+
+        "minMistakes": 0,
+        "maxSpeed": 0
+    }
+}
