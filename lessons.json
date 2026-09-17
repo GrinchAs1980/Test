@@ -15,6 +15,14 @@
       "version": 1,
       "free": true,
       "downloadUrl": "Lessons/lesson02/lesson.json"
+    },
+    {
+      "id": "lesson03",
+      "title": "Українська для дітей 999 років",
+      "description": "для дітей 6 - 9 років",
+      "version": 1,
+      "free": true,
+      "downloadUrl": "Lessons/lesson03/lesson.json"
     }
   ]
 }
