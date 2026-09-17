@@ -4,7 +4,7 @@
       "id": "lesson01",
       "title": "Українська розкладка",
       "description": "Базове тренування української клавіатури",
-      "version": 1,
+      "version": 2,
       "free": true,
       "downloadUrl": "Lessons/lesson01/lesson.json"
     },
@@ -20,7 +20,7 @@
       "id": "lesson03",
       "title": "Українська для дітей 999 років",
       "description": "для дітей 6 - 9 років",
-      "version": 1,
+      "version": 2,
       "free": true,
       "downloadUrl": "Lessons/lesson03/lesson.json"
     }
