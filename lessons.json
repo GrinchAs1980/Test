@@ -1,28 +1,67 @@
 {
-  "lessons": [
+  "categories": [
     {
-      "id": "lesson01",
-      "title": "Українська розкладка",
-      "description": "Базове тренування української клавіатури",
-      "version": 2,
-      "free": true,
-      "downloadUrl": "Lessons/lesson01/lesson.json"
+      "id": "ukrainian",
+      "title": "Українська",
+      "subcategories": [
+        {
+          "id": "basic-layout",
+          "title": "Базова розкладка",
+          "lessons": [
+            {
+              "id": "lesson01",
+              "title": "Базова розкладка рук",
+              "description": "Урок для дітей 6–9 років",
+              "age": "6–9 років",
+              "version": 1,
+              "free": true,
+              "downloadUrl": "Lessons/lesson01/lesson.json"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "lesson02",
-      "title": "Англійська розкладка",
-      "description": "Базове тренування англійської клавіатури",
-      "version": 1,
-      "free": true,
-      "downloadUrl": "Lessons/lesson02/lesson.json"
+      "id": "english",
+      "title": "Англійська",
+      "subcategories": [
+        {
+          "id": "basic-layout",
+          "title": "Basic Layout",
+          "lessons": [
+            {
+              "id": "lesson02",
+              "title": "English Basic Layout",
+              "description": "Базове тренування англійської клавіатури",
+              "age": "6–9 років",
+              "version": 1,
+              "free": true,
+              "downloadUrl": "Lessons/lesson02/lesson.json"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "lesson03",
-      "title": "Українська для дітей 999 років",
-      "description": "для дітей 6 - 9 років",
-      "version": 2,
-      "free": true,
-      "downloadUrl": "Lessons/lesson03/lesson.json"
+      "id": "mixed",
+      "title": "Змішана",
+      "subcategories": [
+        {
+          "id": "ua-en",
+          "title": "Українська + Англійська",
+          "lessons": [
+            {
+              "id": "lesson03",
+              "title": "Змішана розкладка",
+              "description": "Тренування українських та англійських символів",
+              "age": "8–12 років",
+              "version": 1,
+              "free": true,
+              "downloadUrl": "Lessons/lesson03/lesson.json"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
