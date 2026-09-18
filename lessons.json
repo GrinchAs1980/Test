@@ -35,7 +35,7 @@
               "description": "Базове тренування англійської клавіатури",
               "age": "6–9 років",
               "version": 1,
-              "free": true,
+              "free": false,
               "downloadUrl": "Lessons/lesson02/lesson.json"
             }
           ]
