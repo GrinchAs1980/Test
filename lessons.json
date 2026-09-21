@@ -56,7 +56,7 @@
               "description": "Тренування українських та англійських символів",
               "age": "8–12 років",
               "version": 3,
-              "free": true,
+              "free": false,
               "downloadUrl": "Lessons/lesson03/lesson.json"
             }
           ]
