@@ -2,6 +2,7 @@
 {
     "id": "lesson02",
     "version": 1,
+    "free": false,
  "title": "UA + EN",
  "language": "MIXED",
 
