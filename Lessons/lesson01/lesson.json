@@ -2,6 +2,7 @@
 {
     "id": "lesson01",
     "version": 9,
+     "free": true,
     "title": "Українська розкладка",
     "language": "UA",
 
